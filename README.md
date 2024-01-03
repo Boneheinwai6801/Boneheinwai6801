@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+BoneHein+Wai!;" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on  <b>Infinite Bussiness Solution .</b>  <br>👯 I’m looking to collaborate on Mobile Development .<br>🌱 I’m currently learning <b> Flutter, Native, ReactNatice, Dart, Node js</b> <br>💬 Ask me about Technology or Anything .<br>
 
